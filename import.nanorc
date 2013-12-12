@@ -31,7 +31,6 @@ include ~/.nano/go.nanorc
 include ~/.nano/nanorc.nanorc
 include ~/.nano/sql.nanorc
 include ~/.nano/pkg-config.nanorc
-include ~/.nano/man.nanorc
 include ~/.nano/vala.nanorc
 include ~/.nano/java.nanorc
 include ~/.nano/yum.nanorc
@@ -105,4 +104,3 @@ include ~/.nano/python.nanorc
 include ~/.nano/makefile.nanorc
 include ~/.nano/vi.nanorc
 include ~/.nano/rpmspec.nanorc
-include ~/.nano/import.nanorc
